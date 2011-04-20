@@ -1,6 +1,8 @@
 """ 
 Script Name: Map_Index.py
 
+https://bitbucket.org/npeihl/mapindextool
+
 Description: The Map Index Tool creates a geographic index of all ArcMap documents (MXDs) 
 in a folder supplied by the user. For each MXD, the tool finds the largest dataframe 
 on the Layout view and sends the extent of that dataframe to a shapefile in the 
